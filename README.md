@@ -2,4 +2,4 @@
 2. Updating data to TableView.
 3. Layouts and constraints are written programmatically (storyboards were not used).
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
